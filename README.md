@@ -34,7 +34,6 @@ Setup (local):
    cd client
    npm run dev
 
-7. Open frontend at http://localhost:5173 (Vite default) and backend at http://localhost:5000
 
 Notes:
 - Authentication: JWT
